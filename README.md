@@ -1,3 +1,19 @@
+## SHP-SHOP
+
+Modern E-Commerce Project with Multiple Authentication, Stripe payment method and responsive design.
+Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+
+You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+
+## Tech Stack 
+- Laravel 10 for Backend.
+- VueJs 3 for Frontend.
+- InertiaJs for API.
+- MySQL for database management.
+- TailwindCSS for CSS Framework.
+- Flowbite for the component design.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
